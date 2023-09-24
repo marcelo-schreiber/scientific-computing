@@ -1,0 +1,9 @@
+[submodule "perfEG"]
+	path = perfEG
+	url = https://github.com/marcelo-schreiber/perfEG.git
+[submodule "interpolation"]
+	path = interpolation
+	url = https://github.com/marcelo-schreiber/interpolation.git
+[submodule "float-error-iee754"]
+	path = float-error-iee754
+	url = https://github.com/marcelo-schreiber/float-error-iee754.git
