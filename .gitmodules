@@ -8,10 +8,10 @@
 	path = interval-float-ep01
 	url = https://github.com/marcelo-schreiber/float-error-iee754.git
 [submodule "polynomial-approximation"]
-	path = polynomial-approximation-minimum-square-t01
+	path = polynomial-approximation-t01
 	url = git@github.com:marcelo-schreiber/polynomial-approximation.git
 [submodule "ajustepol-otimizado"]
-	path = ajustepol-otimizado
+	path = polynomial-approximation-optimized-t02
 	url = git@github.com:marcelo-schreiber/ajustepol-otimizado.git
 [submodule "matrix-mult-optimization"]
 	path = matrix-mult-optimized-ep04
