@@ -23,7 +23,7 @@ The projects are divided into the following folders:
 - `t1`: Polynomial Approximation by Minimization of the Least Squares Method
 - `t2`: Polynomial Approximation by Minimization of the Least Squares Method OPTIMIZED
 
-all projects have a `Makefile` to compile the code. To compile the code, just run `make` in the project folder and remember to read the `README.md` file in each folder to understand how to run the code. Also read the `report.pdf` file in each folder to understand the code and the likwid results.
+All projects have a `Makefile` to compile the code. To compile the code, just run `make` in the project folder and remember to read the `README.md` file in each folder to understand how to run the code. Also some submodules have a `REPORT.pdf` file, read it to understand the code and the likwid results in charts.
 Most of them also require Likwid to be installed. To install it, follow the instructions in the [official repository](https://github.com/RRZE-HPC/likwid).
 
 ## Authors
