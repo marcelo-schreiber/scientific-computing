@@ -5,7 +5,7 @@
 	path = interpolation
 	url = https://github.com/marcelo-schreiber/interpolation.git
 [submodule "float-error-iee754"]
-	path = float-error-iee754
+	path = interval-float-ep01
 	url = https://github.com/marcelo-schreiber/float-error-iee754.git
 [submodule "polynomial-approximation"]
 	path = polynomial-approximation
