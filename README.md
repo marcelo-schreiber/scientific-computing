@@ -1,5 +1,8 @@
 # Scientific computing
 
+## Other languages
+- [README em português](https://github.com/marcelo-schreiber/scientific-computing/blob/master/README.pt.md)
+
 ## Introduction
 
 This repository contains the code for the scientific computing course at the Federal University of Paraná (UFPR). The course is taught in C and covers the following topics:
