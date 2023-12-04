@@ -21,6 +21,8 @@ Os projetos estão divididos nas seguintes pastas:
 - `ep5`: Integração Numérica da função Styblinski-Tang usando métodos de Monte Carlo e retângulo;
 - `t1`: Aproximação Polinomial pela Minimização do Método dos Mínimos Quadrados usando intervalos de ponto flutuante;
 - `t2`: t1 com otimizações;
+
+
 Todos os projetos possuem um `Makefile` para compilar o código. Para compilar o código, basta executar `make` na pasta do projeto e lembre-se de ler o arquivo `README.md` ou `LEIAME.md` em cada pasta para entender como executar o código. Além disso, alguns submódulos possuem um arquivo `.pdf`, leia-o para entender o código e os resultados do Likwid em gráficos.
 A maioria deles também requer a instalação do `Likwid`. Para instalá-lo, siga as instruções no [repositório oficial](https://github.com/RRZE-HPC/likwid).
 
