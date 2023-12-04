@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code for the scientific computing course at the Federal University of Paraná. The course is taught in C and covers the following topics:
+This repository contains the code for the scientific computing course at the Federal University of Paraná (UFPR). The course is taught in C and covers the following topics:
 
 - Floating Point Arithmetic IEEE 754 in Intervals
 - Linear systems
