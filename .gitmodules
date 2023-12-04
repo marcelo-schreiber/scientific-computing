@@ -1,21 +1,21 @@
 [submodule "perfEG"]
-	path = linear-system-solve-ep02
+	path = ep2-solve-linear-system
 	url = https://github.com/marcelo-schreiber/perfEG.git
 [submodule "interpolation"]
-	path = interpolation-lagrange-newton-ep03
+	path = ep3-interpolation
 	url = https://github.com/marcelo-schreiber/interpolation.git
 [submodule "float-error-iee754"]
-	path = interval-float-ep01
+	path = ep1-interval-float-operations
 	url = https://github.com/marcelo-schreiber/float-error-iee754.git
 [submodule "polynomial-approximation"]
-	path = polynomial-approximation-t01
+	path = t1-polynomial-aprox
 	url = git@github.com:marcelo-schreiber/polynomial-approximation.git
 [submodule "ajustepol-otimizado"]
-	path = polynomial-approximation-optimized-t02
+	path = t2-polynomial-aprox-optimized
 	url = git@github.com:marcelo-schreiber/ajustepol-otimizado.git
 [submodule "matrix-mult-optimization"]
-	path = matrix-mult-optimized-ep04
+	path = ep4-matrix-mult-optimized
 	url = git@github.com:marcelo-schreiber/matrix-mult-optimization.git
 [submodule "ci1164-monte-carlo"]
-	path = integrals-monte-carlo-ep05
+	path = ep5-monte-carlo
 	url = git@github.com:marcelo-schreiber/ci1164-monte-carlo.git
