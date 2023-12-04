@@ -7,3 +7,15 @@
 [submodule "float-error-iee754"]
 	path = float-error-iee754
 	url = https://github.com/marcelo-schreiber/float-error-iee754.git
+[submodule "polynomial-approximation"]
+	path = polynomial-approximation
+	url = git@github.com:marcelo-schreiber/polynomial-approximation.git
+[submodule "ajustepol-otimizado"]
+	path = ajustepol-otimizado
+	url = git@github.com:marcelo-schreiber/ajustepol-otimizado.git
+[submodule "matrix-mult-optimization"]
+	path = matrix-mult-optimization
+	url = git@github.com:marcelo-schreiber/matrix-mult-optimization.git
+[submodule "ci1164-monte-carlo"]
+	path = ci1164-monte-carlo
+	url = git@github.com:marcelo-schreiber/ci1164-monte-carlo.git
